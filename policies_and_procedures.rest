@@ -3,7 +3,7 @@ Policies and Procedures
 
 Documentation
 -------------
-* use .. _Restructured Text: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
+* use [[Restructured Text|http://docutils.sourceforge.net/docs/user/rst/quickstart.html]]
 
 Packaging
 ---------
