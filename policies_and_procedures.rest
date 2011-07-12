@@ -1,0 +1,16 @@
+Policies and Procedures
+=======================
+
+Documentation
+-------------
+* use [Restructured Text](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
+
+Packaging
+---------
+* Tag/release policy
+
+Ethos
+-----
+[[gooseproject_ethos|Ethos]]
+
+
