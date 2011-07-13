@@ -4,5 +4,3 @@ GoOSe Project Infrastructure
 [[Current Infrastructure|current_infrastructure]]
 
 [[Infrastructure Future Ideas|infrastructure_look_into]]
-
-
