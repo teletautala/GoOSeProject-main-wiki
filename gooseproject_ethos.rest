@@ -1,6 +1,8 @@
 GoOSe Project Ethos
 ===================
 
+These are from our discussion on the [[mailing list|http://groups.google.com/group/goose-linux/browse_thread/thread/cc1e5d82f7166aca]]
+
 * Open -- everything (minus signing keys/system access) are shared under an open license. *EVERYTHING* build scripts, one-off scripts, etc. 
 
 * Kind -- Community communication is encouraged to be kind and never attack. Work with the other rebuild projects out there to improve *EVERYONE* 
