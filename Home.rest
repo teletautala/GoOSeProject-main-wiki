@@ -2,6 +2,8 @@
 
 [[Policies and Procedures|policies_and_procedures]]
 
+[[Goose Project Infrastructure|gooseproject_infrastructure]]
+
 ----------
 
 [[Administriva|administriva]]

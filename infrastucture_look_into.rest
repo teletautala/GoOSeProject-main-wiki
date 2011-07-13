@@ -1,0 +1,27 @@
+Things to Look Into for GoOSe Infrastructure
+============================================
+
+Overall GoOSe Tools
+-------------------
+* account management
+ * need to build ties to GitHub, Google apps for our domain, our infrastructure
+
+Build Tools
+-----------
+* mash -- Koji to yum repo tool
+* Pungi -- composing tool
+* kiwi -- another composing tool which can do iso, usb, EC2, etc.
+
+QA Tools
+--------
+* ABI checker -- goozbach has a nebulous idea incorporating mock, ldd, and diff
+ * would need an install of the upstream distro, and corresponding entitlements
+
+Website Stuff
+-------------
+* GitHub pages for gooseproject.org
+
+Distribution Stuff
+-----------------
+* mirrormanager -- mirror management
+* need to find some willing mirrors out there
