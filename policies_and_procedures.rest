@@ -11,6 +11,6 @@ Packaging
 
 Ethos
 -----
-[[gooseproject_ethos|Ethos]]
+[[Ethos|gooseproject_ethos]]
 
 

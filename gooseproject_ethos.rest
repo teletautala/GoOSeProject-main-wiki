@@ -1,0 +1,20 @@
+GoOSe Project Ethos
+===================
+
+* Open -- everything (minus signing keys/system access) are shared under an open license. *EVERYTHING* build scripts, one-off scripts, etc. 
+
+* Kind -- Community communication is encouraged to be kind and never attack. Work with the other rebuild projects out there to improve *EVERYONE* 
+
+* Transparent -- Spend time on helping everyone easily know "where are things?". Ask for help when needed. 
+
+* Quality -- Have a well-defined "pass criteria".  Enable QA to have a checklist and when we slip something concrete to point to. 
+
+* Organized -- One channel for the "This is Released" mechanism. The canonical location always gets updated first. Twitter, blog, IRC, 
+mailing list always points to that. 
+
+* Enjoyable -- Enjoy your work. If you are overwhelmed, or not enjoying the work, say so and take a break. Use the rule of two feet and walk away. Please let people know what is going on with sincerity and grace. I would rather someone be happy doing the work than someone who grumps all of the time. Commit to only what you think you can handle. Don't feel pressured to do more. There will be times when the community is in a crunch. Don't feel as though you have to take on more just to meet deadlines.
+
+* Grateful -- Value your fellow community members' contributions. Be it big or small, every contribution helps our community. Give what you can and encourage others to do the same. Never disparage just because someone isn't 'pulling their weight'. There is no such thing as not doing enough. 
+
+* Trustworthy -- Always do things in the manner which engenders trust from the community at large.
+ 
