@@ -6,5 +6,6 @@ Introduction
 
 `History` When we started out working on The GoOSe Linux Project there wasn't an open and transparent distribution of Linux that met our needs.  We decided to create from source a distribution that was open source, transparent in its development and decision making, and the process could be repeatable.  We decided to use as our base a well respected and widely used enterprise Linux distribution.  
 
-There weren't any tools out there to automate some of this processes we needed so we created some such as _Skein: https://github.com/gooseproject/skein.
+There weren't any tools out there to automate some of this processes we needed so we created some such as Skein_..
+.. _Skein: https://github.com/gooseproject/skein
 
